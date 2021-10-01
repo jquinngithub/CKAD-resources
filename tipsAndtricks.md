@@ -104,6 +104,6 @@ Here are some potential keys in Vim that will prove useful (I'm gonna assume you
 If you REALLY hate Vim, change the editor stat!
 
 ```
-export KUBECTL_EDITOR="nano"
+export KUBE_EDITOR="nano"
 
 ```
